@@ -1,0 +1,12 @@
+body {
+background:linear-gradient(cyan,lightblue,blue,darkblue)
+}
+p {
+    color: white;
+}
+b {
+    color: white;
+}
+label{
+    color: white;
+}
